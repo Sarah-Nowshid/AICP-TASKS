@@ -76,8 +76,6 @@ int main()
 	{
 		cout<<"\n enter the name of  senior citizen / person "<<(i+1);
 		cin>>names[i];
-//		cout<<"\n enter the amount paid by "<<names[i]<<" :$ ";
-//		cin>>amountpaid[i];
 	}
 	
 	int extrapeople= max_people-num_people;
